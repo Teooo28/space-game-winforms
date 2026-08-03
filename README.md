@@ -4,7 +4,7 @@ A 2D arcade-style space shooter built entirely from scratch using C# and the Win
 
 ---
 
-## 🧠 Technical Highlights
+## Technical Highlights
 
 This repository is designed to showcase fundamental software engineering concepts to technical recruiters and peers:
 
@@ -16,7 +16,7 @@ This repository is designed to showcase fundamental software engineering concept
 
 ---
 
-## 🎮 Gameplay Overview
+## Gameplay Overview
 
 * **Objective:** Survive incoming waves of enemy ships and projectiles while racking up points to advance through 10 progressively difficult levels.
 * **Controls:** 
@@ -26,7 +26,7 @@ This repository is designed to showcase fundamental software engineering concept
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 * **Language:** C#
 * **UI Framework:** Windows Forms (.NET)
@@ -35,7 +35,7 @@ This repository is designed to showcase fundamental software engineering concept
 
 ---
 
-## ⚙️ Quick Start (How to Run Locally)
+## Quick Start (How to Run Locally)
 
 1. Clone the repository.
 2. Open the `Space_Game.sln` file using **Visual Studio**.
